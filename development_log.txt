@@ -15,3 +15,4 @@ Task: style: implement smooth transitions and hover states (2026-04-12 14:08:05.
 Task: fix: correct horizontal overflow issue (2026-04-12 14:08:06.015)
 Task: feat: add footer component with social links (2026-04-12 14:08:06.521)
 Task: docs: document project structure and components (2026-04-12 14:08:07.103)
+Task: chore: update meta tags for improved SEO (2026-04-12 14:08:07.937)
